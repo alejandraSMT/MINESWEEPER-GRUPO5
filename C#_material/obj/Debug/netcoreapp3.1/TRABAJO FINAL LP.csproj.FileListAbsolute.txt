@@ -1,0 +1,14 @@
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\bin\Debug\netcoreapp3.1\TRABAJO FINAL LP.exe
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\bin\Debug\netcoreapp3.1\TRABAJO FINAL LP.deps.json
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\bin\Debug\netcoreapp3.1\TRABAJO FINAL LP.runtimeconfig.json
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\bin\Debug\netcoreapp3.1\TRABAJO FINAL LP.runtimeconfig.dev.json
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\bin\Debug\netcoreapp3.1\TRABAJO FINAL LP.dll
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\bin\Debug\netcoreapp3.1\TRABAJO FINAL LP.pdb
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.csproj.AssemblyReference.cache
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.AssemblyInfoInputs.cache
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.AssemblyInfo.cs
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.dll
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.pdb
+C:\Users\Alfredo Pacheco\Documents\TRABAJO FINAL LP\obj\Debug\netcoreapp3.1\TRABAJO FINAL LP.genruntimeconfig.cache
