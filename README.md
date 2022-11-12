@@ -4,7 +4,7 @@
 
 ### Ingreso de comandos
 
-<subs>
-Marcar casilla: "c #fila #columna"
+
+Marcar casilla: "c #fila #columna"\n
 Marcar bandera: "m #fila #columna"
-</sub>
+
