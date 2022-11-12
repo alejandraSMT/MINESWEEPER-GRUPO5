@@ -1,6 +1,6 @@
 # MINESWEEPER-GRUPO5
 
-## RUBY
+## RUBY - Paradigma imperativo
 
 ### Ingreso de comandos
 
@@ -24,5 +24,10 @@ https://makeitrealcamp.gitbook.io/ruby-book/manipulacion-de-archivos <br/>
 https://stackoverflow.com/questions/3518329/add-a-new-line-in-file <br/>
 https://coderwall.com/p/ssdcua/bubble-sort-in-ruby <br/>
 https://www.geeksforgeeks.org/ruby-integer-to_f-function-with-example/ <br/>
+
+
+
+## C# - Paradigma orientado a objetos
+
 
 
