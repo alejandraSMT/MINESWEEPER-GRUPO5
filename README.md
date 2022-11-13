@@ -11,7 +11,7 @@ Mostrar tablero actualizado: "p" <br/>
 
 ### Registro de jugadores
 
-El programa utiliza un archivo .txt que guarda los tiempos de todos los jugadores. <br/>
+Se debe tener un archivo "tiempos.txt" dentro de la carpeta donde se encuentra el .rb porque el programa utiliza ese archivo para guarda los tiempos de todos los jugadores. <br/>
 El tiempo del jugador solo se guardará en el .txt si este gana el juego. <br/>
 La línea que se agrega al archivo separa el tiempo y nombre del jugador con ",". <br/>
 
