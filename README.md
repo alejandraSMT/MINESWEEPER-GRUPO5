@@ -29,5 +29,12 @@ https://www.geeksforgeeks.org/ruby-integer-to_f-function-with-example/ <br/>
 
 ## C# - Paradigma orientado a objetos
 
+Buscaminas hecho en Forms de C#, siendo el Form 1 la ventana principal, el form 2 el juego y el form 3 el registro de marcadores. <br/>
+Para almacenar los marcadores se hizo uso de una lista de una clase que generamos llamada puntajes. <br/>
 
+### Referencias:
+https://gist.github.com/fero23/3a8900554401a1272375 <br/>
+https://www.youtube.com/watch?v=1XvqvZ1NeRs&t=563s <br/>
+https://www.youtube.com/watch?v=PAk31IekYj4 <br/>
+https://www.youtube.com/watch?v=NkjtnM6c4Yw <br/>
 
