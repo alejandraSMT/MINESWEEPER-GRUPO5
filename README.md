@@ -24,6 +24,7 @@ https://makeitrealcamp.gitbook.io/ruby-book/manipulacion-de-archivos <br/>
 https://stackoverflow.com/questions/3518329/add-a-new-line-in-file <br/>
 https://coderwall.com/p/ssdcua/bubble-sort-in-ruby <br/>
 https://www.geeksforgeeks.org/ruby-integer-to_f-function-with-example/ <br/>
+https://stackoverflow.com/questions/4815629/how-do-i-pass-variables-to-a-buttons-event-method <br/>
 
 
 
