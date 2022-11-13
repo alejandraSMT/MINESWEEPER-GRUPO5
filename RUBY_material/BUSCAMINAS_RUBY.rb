@@ -62,20 +62,19 @@ def show_grid revealed = false
 end
 
 SURROUND = [-1,0,1].product([-1,0,1]) - [[0,0]]
-
-def surrounding(x, y) 
+def surrounding x, y
   SURROUND.each do |dx, dy|
     yield(x+dx, y+dy) if (0...WIDTH).cover?(x+dx) and (0...HEIGHT).cover?(y+dy)
   end
 end
 
-def clear_space (x, y) 
+def clear_space x, y
   return unless $screen[x][y] == "."
   count = 0
-  surrounding(x, y){ |px, py| count += 1 if $mines[px][py] }
+  surrounding(x, y) { |px, py| count += 1 if $mines[px][py] }
   if count == 0
     $screen[x][y] = " "
-    surrounding(x, y) { |px, py| clear_space(x, y) }
+    surrounding(x, y) { |px, py| clear_space px, py }
   else
     $screen[x][y] = count.to_s
   end
